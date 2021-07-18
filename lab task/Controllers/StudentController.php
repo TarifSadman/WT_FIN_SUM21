@@ -1,6 +1,5 @@
 <?php
 	require_once 'models/db_config.php';
-	//init validation variables
 	$err_db="";
 	if(isset($_POST["add_student"])){
 		//doing the validations
@@ -11,7 +10,7 @@
 		$err_db = $rs;
 	}
 	elseif(isset($_POST["edit_student"])){
-		//do the validations
+		//doing the validations
 		$rs = editStudent($_POST["name"],$_POST["id"]);
 		if($rs === true){
 			header("Location: allstudent.php");

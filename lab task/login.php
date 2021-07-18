@@ -1,5 +1,4 @@
-<?php include 'main_header.php';
-	  include 'controllers/UserController.php';
+<?php include 'controllers/StudentController.php';
 ?>
 
 <!--login starts -->
@@ -29,4 +28,3 @@
 </div>
 
 <!--login ends -->
-<?php include 'main_footer.php';?>

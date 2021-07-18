@@ -4,21 +4,21 @@
 		<tr>
 			<td>
 				<div class="card">
-				<span class="text-white"> Total Products <br>
+				<span class="text-white"> Total Students <br>
+				100
+				</span>
+				</div>
+			</td>
+			<td>
+				<div class="card">
+				<span class="text-white"> Total Students <br>
 					100
 				</span>
 				</div>
 			</td>
 			<td>
 				<div class="card">
-				<span class="text-white"> Total Products <br>
-					100
-				</span>
-				</div>
-			</td>
-			<td>
-				<div class="card">
-				<span class="text-white"> Total Products <br>
+				<span class="text-white"> Total Students <br>
 					100
 				</span>
 				</div>
